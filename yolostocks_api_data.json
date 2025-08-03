@@ -1,0 +1,122 @@
+[
+  {
+    "Rank": 1,
+    "Ticker": "GME",
+    "Mentions": 1432,
+    "Sentiment": "Bullish",
+    "Price": "$25.43",
+    "Change": "+5.2%"
+  },
+  {
+    "Rank": 2,
+    "Ticker": "AMC",
+    "Mentions": 1156,
+    "Sentiment": "Bullish",
+    "Price": "$4.87",
+    "Change": "+3.1%"
+  },
+  {
+    "Rank": 3,
+    "Ticker": "TSLA",
+    "Mentions": 987,
+    "Sentiment": "Mixed",
+    "Price": "$242.31",
+    "Change": "-1.2%"
+  },
+  {
+    "Rank": 4,
+    "Ticker": "NVDA",
+    "Mentions": 876,
+    "Sentiment": "Bullish",
+    "Price": "$487.92",
+    "Change": "+2.8%"
+  },
+  {
+    "Rank": 5,
+    "Ticker": "SPY",
+    "Mentions": 743,
+    "Sentiment": "Bearish",
+    "Price": "$445.23",
+    "Change": "-0.5%"
+  },
+  {
+    "Rank": 6,
+    "Ticker": "AAPL",
+    "Mentions": 651,
+    "Sentiment": "Bullish",
+    "Price": "$178.45",
+    "Change": "+0.8%"
+  },
+  {
+    "Rank": 7,
+    "Ticker": "AMD",
+    "Mentions": 543,
+    "Sentiment": "Bullish",
+    "Price": "$112.34",
+    "Change": "+1.9%"
+  },
+  {
+    "Rank": 8,
+    "Ticker": "BBBY",
+    "Mentions": 487,
+    "Sentiment": "Mixed",
+    "Price": "$0.08",
+    "Change": "-15.3%"
+  },
+  {
+    "Rank": 9,
+    "Ticker": "PLTR",
+    "Mentions": 423,
+    "Sentiment": "Bullish",
+    "Price": "$15.67",
+    "Change": "+4.2%"
+  },
+  {
+    "Rank": 10,
+    "Ticker": "BB",
+    "Mentions": 387,
+    "Sentiment": "Mixed",
+    "Price": "$3.21",
+    "Change": "+0.3%"
+  },
+  {
+    "Rank": 11,
+    "Ticker": "SOFI",
+    "Mentions": 342,
+    "Sentiment": "Bullish",
+    "Price": "$7.89",
+    "Change": "+2.1%"
+  },
+  {
+    "Rank": 12,
+    "Ticker": "F",
+    "Mentions": 298,
+    "Sentiment": "Mixed",
+    "Price": "$12.45",
+    "Change": "-0.7%"
+  },
+  {
+    "Rank": 13,
+    "Ticker": "COIN",
+    "Mentions": 276,
+    "Sentiment": "Bearish",
+    "Price": "$67.89",
+    "Change": "-3.2%"
+  },
+  {
+    "Rank": 14,
+    "Ticker": "RIVN",
+    "Mentions": 234,
+    "Sentiment": "Bearish",
+    "Price": "$18.76",
+    "Change": "-2.4%"
+  },
+  {
+    "Rank": 15,
+    "Ticker": "META",
+    "Mentions": 198,
+    "Sentiment": "Bullish",
+    "Price": "$312.45",
+    "Change": "+1.5%"
+  }
+]
